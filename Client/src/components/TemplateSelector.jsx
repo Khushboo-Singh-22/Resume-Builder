@@ -4,7 +4,7 @@ import classicImg from "../assets/classicTemplateImg.png";
 import modernImg from "../assets/modern.png";
 import minimalImg from "../assets/minimal.png";
 import minimalImageImg from "../assets/minimalImg.png";
-import techResumeImg from "../assets/Tech resume.png";
+import techResume from "../assets/Tech Resume.png";
 import simpleInfographicImg from "../assets/Simple-Infographic-Resume.jpg";
 import minimalATSImg from "../assets/Minimalist-ATS-Resume.jpg";
 import ProfessionalImg from "../assets/Professional-Corporate-Resume.jpg";
