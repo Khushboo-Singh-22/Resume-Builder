@@ -2,7 +2,7 @@ import React from 'react'
 import { Zap } from 'lucide-react'
 import Title from './Title';
 import resumeImg from '../../assets/john-smith-resume-template_75286-original-removebg-preview.png';
-import atslogo from "./image/ATS-Logo.png";
+import atsLogo from "./image/ATS-logo.png";
 
 
 export const Features = () => {
